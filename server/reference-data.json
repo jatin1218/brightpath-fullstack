@@ -1,0 +1,1050 @@
+{
+  "kj": [
+    {
+      "month": "Jan",
+      "learners": 212,
+      "completions": 38
+    },
+    {
+      "month": "Feb",
+      "learners": 234,
+      "completions": 45
+    },
+    {
+      "month": "Mar",
+      "learners": 261,
+      "completions": 52
+    },
+    {
+      "month": "Apr",
+      "learners": 249,
+      "completions": 49
+    },
+    {
+      "month": "May",
+      "learners": 283,
+      "completions": 61
+    },
+    {
+      "month": "Jun",
+      "learners": 318,
+      "completions": 74
+    },
+    {
+      "month": "Jul",
+      "learners": 342,
+      "completions": 82
+    },
+    {
+      "month": "Aug",
+      "learners": 331,
+      "completions": 79
+    },
+    {
+      "month": "Sep",
+      "learners": 376,
+      "completions": 95
+    },
+    {
+      "month": "Oct",
+      "learners": 402,
+      "completions": 108
+    }
+  ],
+  "Aj": [
+    {
+      "program": "Digital Literacy",
+      "completion": 84,
+      "enrolled": 96
+    },
+    {
+      "program": "ESL & Language",
+      "completion": 76,
+      "enrolled": 118
+    },
+    {
+      "program": "GED Prep",
+      "completion": 68,
+      "enrolled": 74
+    },
+    {
+      "program": "Job Readiness",
+      "completion": 81,
+      "enrolled": 89
+    },
+    {
+      "program": "Youth Tutoring",
+      "completion": 91,
+      "enrolled": 64
+    },
+    {
+      "program": "Financial Skills",
+      "completion": 59,
+      "enrolled": 52
+    }
+  ],
+  "jj": [
+    {
+      "name": "Under 18",
+      "value": 64
+    },
+    {
+      "name": "18\u201324",
+      "value": 88
+    },
+    {
+      "name": "25\u201344",
+      "value": 142
+    },
+    {
+      "name": "45\u201364",
+      "value": 79
+    },
+    {
+      "name": "65+",
+      "value": 29
+    }
+  ],
+  "Mj": [
+    {
+      "day": "Mon",
+      "morning": 42,
+      "afternoon": 58,
+      "evening": 71
+    },
+    {
+      "day": "Tue",
+      "morning": 38,
+      "afternoon": 61,
+      "evening": 66
+    },
+    {
+      "day": "Wed",
+      "morning": 45,
+      "afternoon": 55,
+      "evening": 78
+    },
+    {
+      "day": "Thu",
+      "morning": 40,
+      "afternoon": 63,
+      "evening": 69
+    },
+    {
+      "day": "Fri",
+      "morning": 36,
+      "afternoon": 48,
+      "evening": 52
+    },
+    {
+      "day": "Sat",
+      "morning": 54,
+      "afternoon": 67,
+      "evening": 0
+    }
+  ],
+  "Nj": [
+    {
+      "name": "Maria Delgado",
+      "program": "GED Prep",
+      "attendance": 52,
+      "progress": 41,
+      "lastSeen": "6 days ago"
+    },
+    {
+      "name": "James Okafor",
+      "program": "Digital Literacy",
+      "attendance": 58,
+      "progress": 47,
+      "lastSeen": "4 days ago"
+    },
+    {
+      "name": "Lin Wei",
+      "program": "ESL & Language",
+      "attendance": 61,
+      "progress": 55,
+      "lastSeen": "3 days ago"
+    },
+    {
+      "name": "Aisha Rahman",
+      "program": "Financial Skills",
+      "attendance": 49,
+      "progress": 38,
+      "lastSeen": "8 days ago"
+    },
+    {
+      "name": "Tom Kowalski",
+      "program": "Job Readiness",
+      "attendance": 64,
+      "progress": 52,
+      "lastSeen": "2 days ago"
+    }
+  ],
+  "Pj": [
+    {
+      "title": "Resume Workshop",
+      "program": "Job Readiness",
+      "time": "Today, 5:30 PM",
+      "seats": 4
+    },
+    {
+      "title": "Conversational English",
+      "program": "ESL & Language",
+      "time": "Tomorrow, 10:00 AM",
+      "seats": 7
+    },
+    {
+      "title": "Intro to Spreadsheets",
+      "program": "Digital Literacy",
+      "time": "Tomorrow, 6:00 PM",
+      "seats": 2
+    },
+    {
+      "title": "Math Foundations",
+      "program": "GED Prep",
+      "time": "Thu, 4:00 PM",
+      "seats": 9
+    }
+  ],
+  "Fj": [
+    {
+      "name": "Sarah Mitchell",
+      "program": "Digital Literacy",
+      "learners": 48,
+      "sessions": 22,
+      "rating": 4.8,
+      "attendance": 86
+    },
+    {
+      "name": "David Osei",
+      "program": "ESL & Language",
+      "learners": 62,
+      "sessions": 28,
+      "rating": 4.9,
+      "attendance": 82
+    },
+    {
+      "name": "Priya Nair",
+      "program": "GED Prep",
+      "learners": 41,
+      "sessions": 18,
+      "rating": 4.6,
+      "attendance": 74
+    },
+    {
+      "name": "Marcus Lee",
+      "program": "Job Readiness",
+      "learners": 53,
+      "sessions": 20,
+      "rating": 4.7,
+      "attendance": 81
+    },
+    {
+      "name": "Elena Rossi",
+      "program": "Youth Tutoring",
+      "learners": 38,
+      "sessions": 24,
+      "rating": 4.9,
+      "attendance": 93
+    },
+    {
+      "name": "Ahmed Hassan",
+      "program": "Financial Skills",
+      "learners": 35,
+      "sessions": 14,
+      "rating": 4.4,
+      "attendance": 68
+    }
+  ],
+  "Ij": [
+    {
+      "month": "Jun",
+      "sessions": 96
+    },
+    {
+      "month": "Jul",
+      "sessions": 104
+    },
+    {
+      "month": "Aug",
+      "sessions": 99
+    },
+    {
+      "month": "Sep",
+      "sessions": 118
+    },
+    {
+      "month": "Oct",
+      "sessions": 126
+    }
+  ],
+  "Lj": [
+    {
+      "name": "Rachel Kim",
+      "role": "Programs Lead",
+      "program": "All Programs",
+      "programs": 6,
+      "events": 12,
+      "workload": 88
+    },
+    {
+      "name": "Jordan Alvarez",
+      "role": "Volunteer Coordinator",
+      "program": "Job Readiness",
+      "programs": 3,
+      "events": 8,
+      "workload": 72
+    },
+    {
+      "name": "Fatima Sy",
+      "role": "Outreach Coordinator",
+      "program": "ESL & Language",
+      "programs": 2,
+      "events": 15,
+      "workload": 64
+    },
+    {
+      "name": "Ben Carter",
+      "role": "Facilities & Scheduling",
+      "program": "Digital Literacy",
+      "programs": 4,
+      "events": 6,
+      "workload": 55
+    }
+  ],
+  "Rj": [
+    "Digital Literacy",
+    "ESL & Language",
+    "GED Prep",
+    "Job Readiness",
+    "Youth Tutoring",
+    "Financial Skills"
+  ],
+  "zj": [
+    "Last 30 days",
+    "Last 3 months",
+    "Last 6 months",
+    "Year to date"
+  ],
+  "Bj": [
+    {
+      "title": "Fall Enrollment Drive",
+      "owner": "Fatima Sy",
+      "date": "Oct 12",
+      "status": "On track"
+    },
+    {
+      "title": "Volunteer Orientation",
+      "owner": "Jordan Alvarez",
+      "date": "Oct 15",
+      "status": "On track"
+    },
+    {
+      "title": "GED Graduation Ceremony",
+      "owner": "Rachel Kim",
+      "date": "Oct 24",
+      "status": "At risk"
+    },
+    {
+      "title": "Room B Renovation",
+      "owner": "Ben Carter",
+      "date": "Nov 2",
+      "status": "Planning"
+    }
+  ],
+  "Vj": [
+    {
+      "name": "Maria Delgado",
+      "program": "GED Prep",
+      "progress": 41,
+      "attendance": 52,
+      "status": "At risk"
+    },
+    {
+      "name": "James Okafor",
+      "program": "Digital Literacy",
+      "progress": 47,
+      "attendance": 58,
+      "status": "At risk"
+    },
+    {
+      "name": "Lin Wei",
+      "program": "ESL & Language",
+      "progress": 55,
+      "attendance": 61,
+      "status": "Watch"
+    },
+    {
+      "name": "Aisha Rahman",
+      "program": "Financial Skills",
+      "progress": 38,
+      "attendance": 49,
+      "status": "At risk"
+    },
+    {
+      "name": "Tom Kowalski",
+      "program": "Job Readiness",
+      "progress": 52,
+      "attendance": 64,
+      "status": "Watch"
+    },
+    {
+      "name": "Sofia Petrova",
+      "program": "Youth Tutoring",
+      "progress": 88,
+      "attendance": 95,
+      "status": "On track"
+    },
+    {
+      "name": "Daniel Mbeki",
+      "program": "ESL & Language",
+      "progress": 76,
+      "attendance": 84,
+      "status": "On track"
+    },
+    {
+      "name": "Grace Liu",
+      "program": "Digital Literacy",
+      "progress": 92,
+      "attendance": 97,
+      "status": "On track"
+    },
+    {
+      "name": "Omar Farouk",
+      "program": "GED Prep",
+      "progress": 71,
+      "attendance": 79,
+      "status": "On track"
+    },
+    {
+      "name": "Hana Yoshida",
+      "program": "Job Readiness",
+      "progress": 83,
+      "attendance": 90,
+      "status": "On track"
+    }
+  ],
+  "Hj": [
+    {
+      "program": "Digital Literacy",
+      "employed": 24,
+      "furtherEd": 12,
+      "certified": 31
+    },
+    {
+      "program": "ESL & Language",
+      "employed": 31,
+      "furtherEd": 18,
+      "certified": 42
+    },
+    {
+      "program": "GED Prep",
+      "employed": 15,
+      "furtherEd": 22,
+      "certified": 28
+    },
+    {
+      "program": "Job Readiness",
+      "employed": 38,
+      "furtherEd": 6,
+      "certified": 25
+    },
+    {
+      "program": "Financial Skills",
+      "employed": 9,
+      "furtherEd": 4,
+      "certified": 18
+    }
+  ],
+  "Uj": [
+    {
+      "label": "Active Learners",
+      "value": "402",
+      "delta": "+7.2%",
+      "up": true,
+      "note": "vs. last month"
+    },
+    {
+      "label": "Avg. Attendance",
+      "value": "78%",
+      "delta": "+3.1 pts",
+      "up": true,
+      "note": "vs. last month"
+    },
+    {
+      "label": "Completion Rate",
+      "value": "76%",
+      "delta": "+2.4 pts",
+      "up": true,
+      "note": "rolling 90 days"
+    },
+    {
+      "label": "Volunteer Hours",
+      "value": "1,284",
+      "delta": "-4.0%",
+      "up": false,
+      "note": "this quarter"
+    }
+  ],
+  "Wj": [
+    {
+      "stars": 5,
+      "count": 186
+    },
+    {
+      "stars": 4,
+      "count": 92
+    },
+    {
+      "stars": 3,
+      "count": 28
+    },
+    {
+      "stars": 2,
+      "count": 9
+    },
+    {
+      "stars": 1,
+      "count": 3
+    }
+  ],
+  "Gj": {
+    "Sarah Mitchell": "Rebuilt the Digital Literacy workbook so learners can skip ahead without getting lost.",
+    "David Osei": "Started a Saturday conversation circle that nearly doubled ESL attendance.",
+    "Priya Nair": "Runs a Thursday drop-in math clinic for GED learners who missed the basics.",
+    "Marcus Lee": "Grew the employer network to eleven hiring partners this quarter.",
+    "Elena Rossi": "Highest class attendance in the center three months running.",
+    "Ahmed Hassan": "Added a lunchtime budgeting session so full-time workers can join."
+  },
+  "Kj": [
+    {
+      "name": "Sarah Mitchell",
+      "program": "Digital Literacy",
+      "focus": "Assistive Technology",
+      "status": "Certified",
+      "progress": 100,
+      "hours": 24
+    },
+    {
+      "name": "David Osei",
+      "program": "ESL & Language",
+      "focus": "Trauma-Informed Teaching",
+      "status": "In progress",
+      "progress": 72,
+      "hours": 18
+    },
+    {
+      "name": "Priya Nair",
+      "program": "GED Prep",
+      "focus": "Adult Numeracy Strategies",
+      "status": "In progress",
+      "progress": 45,
+      "hours": 12
+    },
+    {
+      "name": "Marcus Lee",
+      "program": "Job Readiness",
+      "focus": "Career Coaching Level II",
+      "status": "In progress",
+      "progress": 88,
+      "hours": 22
+    },
+    {
+      "name": "Elena Rossi",
+      "program": "Youth Tutoring",
+      "focus": "Youth Mentor Safety",
+      "status": "Certified",
+      "progress": 100,
+      "hours": 16
+    },
+    {
+      "name": "Ahmed Hassan",
+      "program": "Financial Skills",
+      "focus": "Financial Coaching Basics",
+      "status": "Just started",
+      "progress": 28,
+      "hours": 6
+    }
+  ],
+  "qj": [
+    {
+      "program": "Digital Literacy",
+      "educators": 2,
+      "sessions": 9,
+      "waitlist": 12,
+      "coverage": "Full"
+    },
+    {
+      "program": "ESL & Language",
+      "educators": 2,
+      "sessions": 11,
+      "waitlist": 24,
+      "coverage": "Thin"
+    },
+    {
+      "program": "GED Prep",
+      "educators": 1,
+      "sessions": 6,
+      "waitlist": 9,
+      "coverage": "Gap"
+    },
+    {
+      "program": "Job Readiness",
+      "educators": 2,
+      "sessions": 8,
+      "waitlist": 15,
+      "coverage": "Full"
+    },
+    {
+      "program": "Youth Tutoring",
+      "educators": 2,
+      "sessions": 12,
+      "waitlist": 31,
+      "coverage": "Thin"
+    },
+    {
+      "program": "Financial Skills",
+      "educators": 1,
+      "sessions": 4,
+      "waitlist": 3,
+      "coverage": "Gap"
+    }
+  ],
+  "Jj": [
+    {
+      "label": "Open initiatives",
+      "value": "18",
+      "delta": "+3",
+      "up": true,
+      "note": "center-wide this quarter"
+    },
+    {
+      "label": "Volunteers engaged",
+      "value": "74",
+      "delta": "+11",
+      "up": true,
+      "note": "1,284 hours logged"
+    },
+    {
+      "label": "Community partners",
+      "value": "23",
+      "delta": "+2",
+      "up": true,
+      "note": "libraries, employers, clinics"
+    },
+    {
+      "label": "Outreach reach",
+      "value": "2,140",
+      "delta": "-6%",
+      "up": false,
+      "note": "people contacted this month"
+    }
+  ],
+  "Yj": [
+    {
+      "title": "Confirm graduation venue and catering",
+      "owner": "Rachel Kim",
+      "due": "Oct 9",
+      "lane": "This week",
+      "priority": "High",
+      "program": "All Programs"
+    },
+    {
+      "title": "Find two substitute tutors for Room B",
+      "owner": "Jordan Alvarez",
+      "due": "Oct 10",
+      "lane": "This week",
+      "priority": "High",
+      "program": "Job Readiness"
+    },
+    {
+      "title": "Print fall flyers for the library board",
+      "owner": "Fatima Sy",
+      "due": "Oct 11",
+      "lane": "This week",
+      "priority": "Medium",
+      "program": "ESL & Language"
+    },
+    {
+      "title": "Renew St. Anne's hall booking",
+      "owner": "Ben Carter",
+      "due": "Oct 18",
+      "lane": "Next",
+      "priority": "Medium",
+      "program": "All Programs"
+    },
+    {
+      "title": "Onboard Metro Credit Union volunteers",
+      "owner": "Rachel Kim",
+      "due": "Oct 21",
+      "lane": "Next",
+      "priority": "Medium",
+      "program": "Financial Skills"
+    },
+    {
+      "title": "Draft November outreach calendar",
+      "owner": "Fatima Sy",
+      "due": "Oct 22",
+      "lane": "Next",
+      "priority": "Low",
+      "program": "All Programs"
+    },
+    {
+      "title": "Quote new laptops for the digital lab",
+      "owner": "Ben Carter",
+      "due": "Nov 4",
+      "lane": "Backlog",
+      "priority": "Low",
+      "program": "Digital Literacy"
+    },
+    {
+      "title": "Plan youth tutoring spring intake",
+      "owner": "Jordan Alvarez",
+      "due": "Nov 12",
+      "lane": "Backlog",
+      "priority": "Low",
+      "program": "Youth Tutoring"
+    },
+    {
+      "title": "Translate ESL intake form into Arabic",
+      "owner": "Fatima Sy",
+      "due": "Nov 15",
+      "lane": "Backlog",
+      "priority": "Medium",
+      "program": "ESL & Language"
+    }
+  ],
+  "Xj": [
+    {
+      "source": "Word of mouth",
+      "learners": 121
+    },
+    {
+      "source": "Community partners",
+      "learners": 88
+    },
+    {
+      "source": "Library flyers",
+      "learners": 62
+    },
+    {
+      "source": "Social media",
+      "learners": 54
+    },
+    {
+      "source": "School referrals",
+      "learners": 47
+    },
+    {
+      "source": "Workplace programs",
+      "learners": 30
+    }
+  ],
+  "Zj": [
+    {
+      "name": "Riverside Public Library",
+      "sector": "Library",
+      "referrals": 62,
+      "status": "Active",
+      "program": "All Programs",
+      "note": "Flyer board and two weekly study rooms"
+    },
+    {
+      "name": "Eastview High School",
+      "sector": "School",
+      "referrals": 47,
+      "status": "Active",
+      "program": "Youth Tutoring",
+      "note": "Sends student tutors each term"
+    },
+    {
+      "name": "Harbor Staffing Group",
+      "sector": "Employer",
+      "referrals": 41,
+      "status": "Active",
+      "program": "Job Readiness",
+      "note": "Hires directly from our graduate list"
+    },
+    {
+      "name": "Northside Health Clinic",
+      "sector": "Health",
+      "referrals": 28,
+      "status": "Active",
+      "program": "ESL & Language",
+      "note": "Refers families for language classes"
+    },
+    {
+      "name": "Metro Credit Union",
+      "sector": "Finance",
+      "referrals": 16,
+      "status": "Onboarding",
+      "program": "Financial Skills",
+      "note": "Volunteers to run budgeting clinics"
+    },
+    {
+      "name": "St. Anne's Community Hall",
+      "sector": "Venue",
+      "referrals": 9,
+      "status": "Renewing",
+      "program": "All Programs",
+      "note": "Evening space while Room B is renovated"
+    }
+  ],
+  "Qj": [
+    {
+      "stage": "Referred",
+      "counts": {
+        "All Programs": 681,
+        "Digital Literacy": 158,
+        "ESL & Language": 171,
+        "GED Prep": 96,
+        "Job Readiness": 112,
+        "Youth Tutoring": 78,
+        "Financial Skills": 66
+      }
+    },
+    {
+      "stage": "Enrolled",
+      "counts": {
+        "All Programs": 493,
+        "Digital Literacy": 96,
+        "ESL & Language": 118,
+        "GED Prep": 74,
+        "Job Readiness": 89,
+        "Youth Tutoring": 64,
+        "Financial Skills": 52
+      }
+    },
+    {
+      "stage": "Active",
+      "counts": {
+        "All Programs": 402,
+        "Digital Literacy": 82,
+        "ESL & Language": 97,
+        "GED Prep": 59,
+        "Job Readiness": 74,
+        "Youth Tutoring": 56,
+        "Financial Skills": 34
+      }
+    },
+    {
+      "stage": "Completed",
+      "counts": {
+        "All Programs": 138,
+        "Digital Literacy": 27,
+        "ESL & Language": 33,
+        "GED Prep": 18,
+        "Job Readiness": 24,
+        "Youth Tutoring": 22,
+        "Financial Skills": 14
+      }
+    }
+  ],
+  "j": [
+    {
+      "need": "Transportation",
+      "counts": {
+        "All Programs": 148,
+        "Digital Literacy": 26,
+        "ESL & Language": 41,
+        "GED Prep": 22,
+        "Job Readiness": 29,
+        "Youth Tutoring": 12,
+        "Financial Skills": 18
+      }
+    },
+    {
+      "need": "Childcare",
+      "counts": {
+        "All Programs": 112,
+        "Digital Literacy": 14,
+        "ESL & Language": 38,
+        "GED Prep": 19,
+        "Job Readiness": 21,
+        "Youth Tutoring": 8,
+        "Financial Skills": 12
+      }
+    },
+    {
+      "need": "Flexible hours",
+      "counts": {
+        "All Programs": 96,
+        "Digital Literacy": 22,
+        "ESL & Language": 24,
+        "GED Prep": 16,
+        "Job Readiness": 20,
+        "Youth Tutoring": 3,
+        "Financial Skills": 11
+      }
+    },
+    {
+      "need": "Device access",
+      "counts": {
+        "All Programs": 71,
+        "Digital Literacy": 28,
+        "ESL & Language": 14,
+        "GED Prep": 9,
+        "Job Readiness": 10,
+        "Youth Tutoring": 6,
+        "Financial Skills": 4
+      }
+    },
+    {
+      "need": "Language support",
+      "counts": {
+        "All Programs": 58,
+        "Digital Literacy": 2,
+        "ESL & Language": 44,
+        "GED Prep": 3,
+        "Job Readiness": 4,
+        "Youth Tutoring": 3,
+        "Financial Skills": 2
+      }
+    }
+  ],
+  "eM": [
+    {
+      "reason": "Work schedule",
+      "counts": {
+        "All Programs": 31,
+        "Digital Literacy": 28,
+        "ESL & Language": 34,
+        "GED Prep": 26,
+        "Job Readiness": 42,
+        "Youth Tutoring": 18,
+        "Financial Skills": 30
+      }
+    },
+    {
+      "reason": "Childcare",
+      "counts": {
+        "All Programs": 22,
+        "Digital Literacy": 14,
+        "ESL & Language": 26,
+        "GED Prep": 20,
+        "Job Readiness": 18,
+        "Youth Tutoring": 30,
+        "Financial Skills": 16
+      }
+    },
+    {
+      "reason": "Transportation",
+      "counts": {
+        "All Programs": 17,
+        "Digital Literacy": 18,
+        "ESL & Language": 16,
+        "GED Prep": 22,
+        "Job Readiness": 14,
+        "Youth Tutoring": 20,
+        "Financial Skills": 18
+      }
+    },
+    {
+      "reason": "Health",
+      "counts": {
+        "All Programs": 13,
+        "Digital Literacy": 14,
+        "ESL & Language": 8,
+        "GED Prep": 12,
+        "Job Readiness": 10,
+        "Youth Tutoring": 12,
+        "Financial Skills": 14
+      }
+    },
+    {
+      "reason": "Cost",
+      "counts": {
+        "All Programs": 9,
+        "Digital Literacy": 16,
+        "ESL & Language": 6,
+        "GED Prep": 12,
+        "Job Readiness": 8,
+        "Youth Tutoring": 10,
+        "Financial Skills": 14
+      }
+    },
+    {
+      "reason": "Other",
+      "counts": {
+        "All Programs": 8,
+        "Digital Literacy": 10,
+        "ESL & Language": 10,
+        "GED Prep": 8,
+        "Job Readiness": 8,
+        "Youth Tutoring": 10,
+        "Financial Skills": 8
+      }
+    }
+  ],
+  "tM": [
+    {
+      "name": "Grace Liu",
+      "program": "Digital Literacy",
+      "milestone": "Passed the Level 3 spreadsheet assessment",
+      "date": "Oct 3"
+    },
+    {
+      "name": "Hana Yoshida",
+      "program": "Job Readiness",
+      "milestone": "Signed a part-time offer through the employer network",
+      "date": "Oct 1"
+    },
+    {
+      "name": "Daniel Mbeki",
+      "program": "ESL & Language",
+      "milestone": "Moved up to Conversation Level 4",
+      "date": "Sep 28"
+    },
+    {
+      "name": "Omar Farouk",
+      "program": "GED Prep",
+      "milestone": "Scored 82% on the GED math practice exam",
+      "date": "Sep 24"
+    },
+    {
+      "name": "Sofia Petrova",
+      "program": "Youth Tutoring",
+      "milestone": "Finished 20 tutoring hours and earned a service badge",
+      "date": "Sep 20"
+    },
+    {
+      "name": "Priyanka Shah",
+      "program": "Financial Skills",
+      "milestone": "Built a first monthly budget in the workbook",
+      "date": "Sep 18"
+    }
+  ],
+  "nM": [
+    {
+      "quote": "I stopped dreading the email form. Now I fill in job applications on my own.",
+      "name": "Tom K.",
+      "program": "Job Readiness",
+      "rating": 5
+    },
+    {
+      "quote": "The evening class fits around my shift, which no one else could do.",
+      "name": "Aisha R.",
+      "program": "Financial Skills",
+      "rating": 5
+    },
+    {
+      "quote": "My tutor never makes me feel slow. I finally read the news out loud.",
+      "name": "Lin W.",
+      "program": "ESL & Language",
+      "rating": 4
+    },
+    {
+      "quote": "Small groups mean the teacher actually knows where I am stuck.",
+      "name": "Omar F.",
+      "program": "GED Prep",
+      "rating": 5
+    }
+  ],
+  "rM": [
+    "var(--color-chart-1)",
+    "var(--color-chart-2)",
+    "var(--color-chart-3)",
+    "var(--color-chart-4)",
+    "var(--color-chart-5)"
+  ]
+}
